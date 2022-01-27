@@ -23,12 +23,12 @@ const projects = [
 		nr: '005',
 		name: 'User Profile Design',
 		link: 'https://codepen.io/FlorinPop17/full/QWLzdrV'
-	},
-	{
-		nr: '006',
-		name: 'Pokedex',
-		link: 'https://codepen.io/FlorinPop17/full/gOYZxyE'
 	}, */
+	{
+		nr: '005',
+		name: 'Minesweeper',
+		link: 'https://cutlerwater-minesweepergame.netlify.app/'
+	}, 
 	{
 		nr: '007',
 		name: 'James Bond Tribute Page',
