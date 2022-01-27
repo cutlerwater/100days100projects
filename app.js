@@ -14,11 +14,11 @@ const projects = [
 		name: 'Double Noise Flow Field',
 		link: 'https://codepen.io/FlorinPop17/full/GRKwmgK'
 	}, */
-	/* {
+	 {
 		nr: '004',
 		name: 'Catch the insect',
-		link: 'https://codepen.io/FlorinPop17/full/NWKELoq'
-	}, */
+		link: 'https://cutlerwater-catchthebuggame.netlify.app/'
+	}, 
 	/* {
 		nr: '005',
 		name: 'User Profile Design',
