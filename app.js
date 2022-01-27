@@ -34,22 +34,22 @@ const projects = [
 		name: 'James Bond Tribute Page',
 		link: 'https://cutlerwater-007tribute.netlify.app'
 	},
-	/* {
+	 {
 		nr: '008',
-		name: 'Live Twitter Feed',
-		link: 'https://codepen.io/FlorinPop17/full/aboXgpP'
+		name: '3d Galaxy Page',
+		link: 'https://cutlerwater-galaxy3d.netlify.app/'
 	},
-	{
+	/*{
 		nr: '009',
 		name: 'This or That (w/ dogs)',
 		link: 'https://codepen.io/FlorinPop17/full/rNBRYKZ'
-	},
+	}, */
 	{
 		nr: '010',
-		name: 'Math Wizz Game',
-		link: 'https://codepen.io/FlorinPop17/full/RwbOwrm'
+		name: 'Abbey Road 3d',
+		link: 'https://beatlesabbeyroad-3d.netlify.app/'
 	},
-	{
+	/*{
 		nr: '011',
 		name: 'Push Force Game',
 		link: 'https://codepen.io/FlorinPop17/full/JjPVBwx'
@@ -83,13 +83,13 @@ const projects = [
 		nr: '017',
 		name: 'Testimonial Design',
 		link: 'https://codepen.io/FlorinPop17/full/yLLBPLZ'
-	},
+	}, */
 	{
 		nr: '018',
-		name: 'Typing Speed Test',
-		link: 'https://codepen.io/FlorinPop17/full/ExxYJdE'
+		name: 'Padron Cigars',
+		link: 'https://cutlerwater-padroncigars.netlify.app/'
 	},
-	{
+	/*{
 		nr: '019',
 		name: 'Send Love Button',
 		link: 'https://codepen.io/FlorinPop17/full/eYYYErv'
