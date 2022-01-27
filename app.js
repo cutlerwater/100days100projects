@@ -14,11 +14,11 @@ const projects = [
 		name: 'Double Noise Flow Field',
 		link: 'https://codepen.io/FlorinPop17/full/GRKwmgK'
 	}, */
-	{
+	/* {
 		nr: '004',
 		name: 'Catch the insect',
 		link: 'https://codepen.io/FlorinPop17/full/NWKELoq'
-	},
+	}, */
 	/* {
 		nr: '005',
 		name: 'User Profile Design',
@@ -32,7 +32,7 @@ const projects = [
 	{
 		nr: '007',
 		name: 'James Bond Tribute Page',
-		link: 'https://codepen.io/FlorinPop17/full/KKPbjwy'
+		link: 'https://cutlerwater-007tribute.netlify.app'
 	},
 	/* {
 		nr: '008',
@@ -62,7 +62,7 @@ const projects = [
 	{
 		nr: '013',
 		name: 'Password Generator',
-		link: 'https://codepen.io/FlorinPop17/full/BaBePej'
+		link: 'https://cutlerwater-passwordgenerator.netlify.app/'
 	},
 	/* {
 		nr: '014',
@@ -112,7 +112,7 @@ const projects = [
 	{
 		nr: '023',
 		name: 'Background Animation',
-		link: 'https://codepen.io/FlorinPop17/full/jOOPdbE'
+		link: 'https://cutlerwater-backgroundanimations.netlify.app/'
 	},
 	/* {
 		nr: '024',
@@ -267,7 +267,7 @@ const projects = [
 	{
 		nr: '054',
 		name: 'Rotation Slideshow',
-		link: 'https://codepen.io/FlorinPop17/full/VwwdNvP'
+		link: 'https://cutlerwater-rotatingeagles.netlify.app/'
 	},
 	/* {
 		nr: '055',
@@ -366,8 +366,8 @@ const projects = [
 	}, */
 	{
 		nr: '074',
-		name: 'Background Changer',
-		link: 'https://codepen.io/FlorinPop17/full/MWYgYNM'
+		name: 'Candy Crush Game with Background Changer',
+		link: 'https://cutlerwater-candycrush.netlify.app/'
 	},
 	/* {
 		nr: '075',
@@ -392,7 +392,7 @@ const projects = [
 	{
 		nr: '079',
 		name: 'Background Slider',
-		link: 'https://codepen.io/FlorinPop17/full/GRggPob'
+		link: 'https://cutlerwater-backgroundslider.netlify.app/'
 	},
 	/* {
 		nr: '080',
@@ -449,11 +449,11 @@ const projects = [
 		name: 'Tooltip',
 		link: 'https://codepen.io/FlorinPop17/full/dyPprax'
 	}, */
-	{
+	/* {
 		nr: '091',
 		name: 'Live Visit Count',
 		link: 'https://codepen.io/FlorinPop17/full/BayQZZy'
-	},
+	}, */
 	/* {
 		nr: '092',
 		name: 'CSS Pulse Effect',
