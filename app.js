@@ -6,8 +6,8 @@ const projects = [
 	},
 	{
 		nr: '002',
-		name: '2019 Mood Calendar',
-		link: 'https://codepen.io/FlorinPop17/full/eYOPdER'
+		name: '2022 Mood Calendar',
+		link: 'https://cutlerwater-moodcalendar.netlify.app'
 	},
 	/* {
 		nr: '003',
