@@ -252,7 +252,7 @@ const projects = [
 	{
 		nr: '051',
 		name: 'Side Menu Animation',
-		link: 'https://codepen.io/FlorinPop17/full/LYYdMXr'
+		link: 'https://cutlerwater-sidemenunavigation.netlify.app'
 	},
 	/*{
 		nr: '052',
