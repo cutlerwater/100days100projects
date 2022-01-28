@@ -437,7 +437,7 @@ const projects = [
 	{
 		nr: '088',
 		name: 'Blurry Loading',
-		link: 'https://codepen.io/FlorinPop17/full/mdyEggx'
+		link: 'https://cutlerwater-blurredloading.netlify.app/'
 	},
 	{
 		nr: '089',
