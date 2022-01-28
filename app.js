@@ -439,12 +439,12 @@ const projects = [
 		name: 'Blurry Loading',
 		link: 'https://codepen.io/FlorinPop17/full/mdyEggx'
 	},
-	/*{
-		nr: '089',
-		name: 'Rain Drops',
-		link: 'https://codepen.io/FlorinPop17/full/yLyaPJb'
-	},
 	{
+		nr: '089',
+		name: 'Weather App',
+		link: 'https://cutlerwater-weatherapp.netlify.app'
+	},
+	/*{
 		nr: '090',
 		name: 'Tooltip',
 		link: 'https://codepen.io/FlorinPop17/full/dyPprax'
