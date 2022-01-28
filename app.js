@@ -433,13 +433,13 @@ const projects = [
 		nr: '087',
 		name: 'Invoice Design',
 		link: 'https://codepen.io/FlorinPop17/full/ExaypRr'
-	},
+	}, */
 	{
 		nr: '088',
 		name: 'Blurry Loading',
 		link: 'https://codepen.io/FlorinPop17/full/mdyEggx'
 	},
-	{
+	/*{
 		nr: '089',
 		name: 'Rain Drops',
 		link: 'https://codepen.io/FlorinPop17/full/yLyaPJb'
