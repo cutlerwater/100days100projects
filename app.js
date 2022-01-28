@@ -73,13 +73,13 @@ const projects = [
 		nr: '015',
 		name: 'Voting App',
 		link: 'https://codepen.io/FlorinPop17/full/NWKQWmq'
-	},
+	}, */
 	{
 		nr: '016',
 		name: 'Clock',
 		link: 'https://codepen.io/FlorinPop17/full/eYOqQLz'
 	},
-	{
+	/*{
 		nr: '017',
 		name: 'Testimonial Design',
 		link: 'https://codepen.io/FlorinPop17/full/yLLBPLZ'
