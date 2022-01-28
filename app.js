@@ -248,13 +248,13 @@ const projects = [
 		nr: '050',
 		name: 'Infinite Scroll',
 		link: 'https://codepen.io/FlorinPop17/full/zYYWwRy'
-	},
+	}, */
 	{
 		nr: '051',
 		name: 'Side Menu Animation',
 		link: 'https://codepen.io/FlorinPop17/full/LYYdMXr'
 	},
-	{
+	/*{
 		nr: '052',
 		name: 'First YouTube Video',
 		link: 'https://codepen.io/FlorinPop17/full/JjjvzJP'
