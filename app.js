@@ -463,13 +463,13 @@ const projects = [
 		nr: '093',
 		name: 'Incrementing Counter',
 		link: 'https://codepen.io/FlorinPop17/full/BaypGjb'
-	},
+	}, */
 	{
 		nr: '094',
 		name: 'Course Card UI',
 		link: 'https://codepen.io/FlorinPop17/full/dyPvNKK'
 	},
-	{
+	/*{
 		nr: '095',
 		name: '404 Sh*t Page',
 		link: 'https://codepen.io/FlorinPop17/full/OJPpQLp'
