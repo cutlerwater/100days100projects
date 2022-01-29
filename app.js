@@ -19,20 +19,25 @@ const projects = [
 		name: 'Catch the insect',
 		link: 'https://cutlerwater-catchthebuggame.netlify.app/'
 	}, 
-	/* {
+ {
 		nr: '005',
 		name: 'User Profile Design',
-		link: 'https://codepen.io/FlorinPop17/full/QWLzdrV'
+		link: 'https://cutlerwater-userprofile.netlify.app'
 	}, 
 	{
-		nr: '005',
+		// nr: '005',
 		name: 'Minesweeper',
 		link: 'https://cutlerwater-minesweepergame.netlify.app/'
-	}, */
+	}, 
 	{
 		nr: '007',
 		name: 'James Bond Tribute Page',
 		link: 'https://cutlerwater-007tribute.netlify.app'
+	},
+	{
+		// nr: '007',
+		name: 'The Eagles Tribute Page',
+		link: 'https://cutlerwater-eaglestribute.netlify.app'
 	},
 	 {
 		// nr: '008',
@@ -138,23 +143,23 @@ const projects = [
 		nr: '028',
 		name: 'Workout Tracker Design',
 		link: 'https://codepen.io/FlorinPop17/full/bGGpqrr'
-	},
+	}, */
 	{
 		nr: '029',
 		name: 'Event KeyCodes',
-		link: 'https://codepen.io/FlorinPop17/full/JjjKjvv'
+		link: 'https://cutlerwater-eventkeycodes.netlify.app'
 	},
-	{
+	/*{
 		nr: '030',
 		name: 'Animated Navigation',
 		link: 'https://codepen.io/FlorinPop17/full/wvvWxKN'
-	},
+	}, */
 	{
 		nr: '031',
-		name: 'New Year Countdown',
-		link: 'https://codepen.io/FlorinPop17/full/xxxEqGj'
+		name: 'Election Day Countdown',
+		link: 'https://cutlerwater-electiondaycountdown.netlify.app'
 	},
-	{
+	/*{
 		nr: '032',
 		name: 'Text to Life',
 		link: 'https://codepen.io/FlorinPop17/full/eYYdQKz'
@@ -165,32 +170,32 @@ const projects = [
 		name: 'Exchange Rate Calculator',
 		link: 'https://cutlerwater-currencyexchangeconverter.netlify.app/'
 	},
-	/*{
+	{
 		nr: '034',
 		name: 'Billionaires Responsive Table',
-		link: 'https://codepen.io/FlorinPop17/full/wvvoxYN'
+		link: 'https://cutlerwater-topbillionaires.netlify.app'
 	},
 	{
 		nr: '035',
 		name: 'Image Reflection',
-		link: 'https://codepen.io/FlorinPop17/full//wvvggVN'
+		link: 'https://cutlerwater-imagereflection.netlify.app'
 	},
 	{
 		nr: '036',
 		name: 'Pricing Design',
-		link: 'https://codepen.io/FlorinPop17/full//RwwKXpB'
+		link: 'https://cutlerwater-pricingdesign.netlify.app'
 	},
-	{
+	/*{
 		nr: '037',
 		name: 'Panda Eye Follow',
 		link: 'https://codepen.io/FlorinPop17/full/XWWMxNz'
-	},
+	},*/
 	{
 		nr: '038',
 		name: '3D Background Boxes',
 		link: 'https://codepen.io/FlorinPop17/full/ExxmmKw'
 	},
-	{
+	/*{
 		nr: '039',
 		name: 'Blog Post Design',
 		link: 'https://codepen.io/FlorinPop17/full/abbWxLN'
