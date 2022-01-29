@@ -213,7 +213,7 @@ const projects = [
 	{
 		nr: '043',
 		name: 'Rotated Nav Animation',
-		link: 'https://codepen.io/FlorinPop17/full/QWWqEqE'
+		link: 'https://cutlerwater-rotatingnavigation.netlify.app/'
 	},
 	/*{
 		nr: '044',
