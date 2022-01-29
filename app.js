@@ -35,7 +35,7 @@ const projects = [
 		link: 'https://cutlerwater-007tribute.netlify.app'
 	},
 	 {
-		nr: '008',
+		// nr: '008',
 		name: '3d Galaxy Page',
 		link: 'https://cutlerwater-galaxy3d.netlify.app/'
 	},
@@ -45,7 +45,7 @@ const projects = [
 		link: 'https://codepen.io/FlorinPop17/full/rNBRYKZ'
 	}, */
 	{
-		nr: '010',
+		// nr: '010',
 		name: 'Abbey Road 3d',
 		link: 'https://beatlesabbeyroad-3d.netlify.app/'
 	},
@@ -85,7 +85,7 @@ const projects = [
 		link: 'https://codepen.io/FlorinPop17/full/yLLBPLZ'
 	}, */
 	{
-		nr: '018',
+		// nr: '018',
 		name: 'Padron Cigars',
 		link: 'https://cutlerwater-padroncigars.netlify.app/'
 	},
@@ -441,7 +441,7 @@ const projects = [
 		link: 'https://cutlerwater-blurredloading.netlify.app/'
 	},
 	{
-		nr: '089',
+		// nr: '089',
 		name: 'Weather App',
 		link: 'https://cutlerwater-weatherapp.netlify.app'
 	},
@@ -468,7 +468,7 @@ const projects = [
 	{
 		nr: '094',
 		name: 'Course Card UI',
-		link: 'https://codepen.io/FlorinPop17/full/dyPvNKK'
+		link: 'https://cutlerwater-coursecards.netlify.app'
 	},
 	{
 		nr: '095',
