@@ -228,13 +228,13 @@ const projects = [
 		nr: '046',
 		name: 'Image Password Strength',
 		link: 'https://codepen.io/FlorinPop17/full/mddqNwd'
-	},
+	},*/
 	{
 		nr: '047',
 		name: 'Expanding Cards',
 		link: 'https://codepen.io/FlorinPop17/full/QWWarqd'
 	},
-	{
+	/*{
 		nr: '048',
 		name: 'Content Placeholder',
 		link: 'https://codepen.io/FlorinPop17/full/OJJzddQ'
@@ -308,13 +308,13 @@ const projects = [
 		nr: '062',
 		name: 'Blobby',
 		link: 'https://codepen.io/FlorinPop17/full/PooXqaQ'
-	},
+	},*/
 	{
 		nr: '063',
 		name: 'Blog Posts Design',
 		link: 'https://codepen.io/FlorinPop17/full/mddavNq'
 	},
-	{
+	/*{
 		nr: '064',
 		name: 'Hidden Search',
 		link: 'https://codepen.io/FlorinPop17/full/xxxMJbw'
@@ -469,12 +469,12 @@ const projects = [
 		name: 'Course Card UI',
 		link: 'https://codepen.io/FlorinPop17/full/dyPvNKK'
 	},
-	/*{
+	{
 		nr: '095',
 		name: '404 Sh*t Page',
-		link: 'https://codepen.io/FlorinPop17/full/OJPpQLp'
+		link: 'https://cutlerwater-404page.netlify.app/'
 	},
-	{
+	/*{
 		nr: '096',
 		name: 'Waves',
 		link: 'https://codepen.io/FlorinPop17/full/WNbjQWN'
