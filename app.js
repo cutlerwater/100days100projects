@@ -232,7 +232,7 @@ const projects = [
 	{
 		nr: '047',
 		name: 'Expanding Cards',
-		link: 'https://codepen.io/FlorinPop17/full/QWWarqd'
+		link: 'https://cutlerwater-expandingcards.netlify.app'
 	},
 	/*{
 		nr: '048',
@@ -312,7 +312,7 @@ const projects = [
 	{
 		nr: '063',
 		name: 'Blog Posts Design',
-		link: 'https://codepen.io/FlorinPop17/full/mddavNq'
+		link: 'https://cutlerwater-blogpostdesign.netlify.app'
 	},
 	/*{
 		nr: '064',
