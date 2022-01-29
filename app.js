@@ -124,6 +124,16 @@ const projects = [
 		name: 'Meditation',
 		link: 'https://cutlerwater-meditationapp.netlify.app/'
 	},
+	{
+		// nr: '018',
+		name: 'Cocktails index',
+		link: 'https://cutlerwater-cocktailsindex.netlify.app/'
+	},
+	{
+		// nr: '018',
+		name: 'AirBnb Clone',
+		link: 'https://myairbnbclone-three.vercel.app/'
+	},
 	/*{
 		nr: '019',
 		name: 'Send Love Button',
