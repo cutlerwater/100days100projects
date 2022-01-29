@@ -501,7 +501,7 @@ const app = document.getElementById('app');
 const imgBaseURL = 'https://www.florin-pop.com/images/100Days100PRojects/Day ';
 
 projects.forEach(project => {
-	const title = `${project.name} - #${project.nr}`;
+	const title = `${project.name}`;
 	const imgURL = imgBaseURL + project.nr + '.jpg';
 	
 	const projectEl = document.createElement('a');
