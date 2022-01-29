@@ -20,7 +20,7 @@ const projects = [
 		link: 'https://cutlerwater-catchthebuggame.netlify.app/'
 	}, 
  {
-		nr: '005',
+		// nr: '005',
 		name: 'User Profile Design',
 		link: 'https://cutlerwater-userprofile.netlify.app'
 	}, 
