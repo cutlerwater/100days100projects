@@ -159,12 +159,13 @@ const projects = [
 		name: 'Text to Life',
 		link: 'https://codepen.io/FlorinPop17/full/eYYdQKz'
 	},
+	*/
 	{
 		nr: '033',
 		name: 'Exchange Rate Calculator',
-		link: 'https://codepen.io/FlorinPop17/full/oNNYWxK'
+		link: 'https://cutlerwater-currencyexchangeconverter.netlify.app/'
 	},
-	{
+	/*{
 		nr: '034',
 		name: 'Billionaires Responsive Table',
 		link: 'https://codepen.io/FlorinPop17/full/wvvoxYN'
@@ -208,13 +209,13 @@ const projects = [
 		nr: '042',
 		name: 'Verify Account UI',
 		link: 'https://codepen.io/FlorinPop17/full/poorPYb'
-	},
+	},*/
 	{
 		nr: '043',
 		name: 'Rotated Nav Animation',
 		link: 'https://codepen.io/FlorinPop17/full/QWWqEqE'
 	},
-	{
+	/*{
 		nr: '044',
 		name: 'Particles',
 		link: 'https://codepen.io/FlorinPop17/full/wvvrbmY'
