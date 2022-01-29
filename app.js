@@ -233,7 +233,7 @@ const projects = [
 	{
 		nr: '038',
 		name: '3D Background Boxes',
-		link: 'https://codepen.io/FlorinPop17/full/ExxmmKw'
+		link: 'https://cutlerwater-3dboxes.netlify.app'
 	},
 	/*{
 		nr: '039',
