@@ -77,7 +77,7 @@ const projects = [
 	{
 		nr: '016',
 		name: 'Clock',
-		link: 'https://codepen.io/FlorinPop17/full/eYOqQLz'
+		link: 'https://cutlerwater-clock.netlify.app'
 	},
 	/*{
 		nr: '017',
