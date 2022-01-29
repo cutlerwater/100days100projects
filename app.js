@@ -9,11 +9,11 @@ const projects = [
 		name: '2022 Mood Calendar',
 		link: 'https://cutlerwater-moodcalendar.netlify.app'
 	},
-	/* {
-		nr: '003',
-		name: 'Double Noise Flow Field',
-		link: 'https://codepen.io/FlorinPop17/full/GRKwmgK'
-	}, */
+	{
+		
+		name: 'Clean Profile with Typing effect',
+		link: 'https://cutlerwater-cleanprofile.netlify.app/'
+	}, 
 	 {
 		nr: '004',
 		name: 'Catch the insect',
@@ -43,6 +43,11 @@ const projects = [
 		// nr: '008',
 		name: '3d Galaxy Page',
 		link: 'https://cutlerwater-galaxy3d.netlify.app/'
+	},
+	{
+		// nr: '008',
+		name: 'Linkistic',
+		link: 'https://cutlerwater-linkistic.netlify.app'
 	},
 	/*{
 		nr: '009',
@@ -93,6 +98,31 @@ const projects = [
 		// nr: '018',
 		name: 'Padron Cigars',
 		link: 'https://cutlerwater-padroncigars.netlify.app/'
+	},
+	{
+		// nr: '018',
+		name: 'Beats',
+		link: 'https://cutlerwater-beatsapp.netlify.app'
+	},
+	{
+		// nr: '018',
+		name: 'Exercise Tracker',
+		link: 'https://cutlerwater-exercisetracker.netlify.app'
+	},
+	{
+		// nr: '018',
+		name: 'Lava Animation',
+		link: 'https://cutlerwater-lavaanimation.netlify.app'
+	},
+	{
+		// nr: '018',
+		name: 'Crypto App',
+		link: 'https://cutlerwater-cryptoapp.netlify.app'
+	},
+	{
+		// nr: '018',
+		name: 'Meditation',
+		link: 'https://cutlerwater-meditationapp.netlify.app/'
 	},
 	/*{
 		nr: '019',
