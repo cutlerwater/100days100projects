@@ -235,12 +235,12 @@ const projects = [
 		name: '3D Background Boxes',
 		link: 'https://cutlerwater-3dboxes.netlify.app'
 	},
-	/*{
+	{
 		nr: '039',
 		name: 'Blog Post Design',
-		link: 'https://codepen.io/FlorinPop17/full/abbWxLN'
+		link: 'https://cutlerwater-webdevelopmentblogpost.netlify.app/'
 	},
-	{
+	/*{
 		nr: '040',
 		name: 'Find It',
 		link: 'https://codepen.io/FlorinPop17/full/rNNwGJm'
@@ -540,6 +540,96 @@ const projects = [
 		name: 'Cheap, Good, Fast',
 		link: 'https://codepen.io/FlorinPop17/full/QWwgyXd'
 	} */
+	{
+		// nr: '099',
+		name: 'Newest Profile Page',
+		link: 'https://cutlerwater-newportfolio.netlify.app'
+	},
+	{
+		// nr: '099',
+		name: 'Original Profile Page',
+		link: 'https://cutlerwater-profile.netlify.app'
+	},
+	{
+		// nr: '099',
+		name: 'Country index',
+		link: 'https://cutlerwater-countries-index.netlify.app'
+	},
+	{
+		// nr: '099',
+		name: 'It is raining!',
+		link: 'https://cutlerwater-itsraining.netlify.app'
+	},
+	{
+		// nr: '099',
+		name: 'My search engine',
+		link: 'https://cutlerwater-search.netlify.app'
+	},
+	{
+		// nr: '099',
+		name: 'My portal',
+		link: 'https://cutlerwater-portal.netlify.app/'
+	},
+	{
+		// nr: '099',
+		name: '3d Orb Page',
+		link: 'https://cutlerwater-3dmirror.netlify.app/'
+	},
+	{
+		// nr: '099',
+		name: 'Quizzes',
+		link: 'https://cutlerwater-quizzes.netlify.app'
+	},
+	{
+		// nr: '099',
+		name: 'Starbucks Clone',
+		link: 'https://cutlerwater-starbucksclone.netlify.app'
+	},
+	{
+		// nr: '099',
+		name: 'Gym website',
+		link: 'https://cutlerwater-gym-website.netlify.app'
+	},
+	{
+		// nr: '099',
+		name: '3d Particles',
+		link: 'https://cutlerwater-gym-website.netlify.app'
+	},
+	{
+		// nr: '099',
+		name: '3d Profile page',
+		link: 'https://cutlerwater-3dprofile.netlify.app'
+	},
+	{
+		// nr: '099',
+		name: 'Budget app',
+		link: 'https://cutlerwater-budgetapp.netlify.app'
+	},
+	{
+		// nr: '099',
+		name: 'Covid Tracker',
+		link: 'https://cutlerwater-covid-tracker.netlify.app'
+	},
+	{
+		// nr: '099',
+		name: 'My IMDB Site',
+		link: 'https://cutlerwater-movieimdb.netlify.app'
+	},
+	{
+		// nr: '099',
+		name: '3d Worlds',
+		link: 'https://3dworld-cutlerwater.netlify.app/'
+	},
+	{
+		// nr: '099',
+		name: 'Nebula cloud',
+		link: 'https://cutlerwater-nebulacloud.netlify.app/'
+	},
+	{
+		// nr: '099',
+		name: 'Star Wars page',
+		link: 'https://cutlerwater-starwarseffect.netlify.app/'
+	},
 ];
 
 const app = document.getElementById('app');
