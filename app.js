@@ -269,12 +269,12 @@ const projects = [
 		nr: '045',
 		name: 'Loading Animation',
 		link: 'https://codepen.io/FlorinPop17/full/VwwrByB'
-	},
+	},*/
 	{
 		nr: '046',
 		name: 'Image Password Strength',
-		link: 'https://codepen.io/FlorinPop17/full/mddqNwd'
-	},*/
+		link: 'https://cutlerwater-imagepasswordstrength.netlify.app'
+	},
 	{
 		nr: '047',
 		name: 'Expanding Cards',
@@ -284,13 +284,13 @@ const projects = [
 		nr: '048',
 		name: 'Content Placeholder',
 		link: 'https://codepen.io/FlorinPop17/full/OJJzddQ'
-	},
+	},*/
 	{
 		nr: '049',
 		name: 'Theme Toggler',
-		link: 'https://codepen.io/FlorinPop17/full/XWWZYYG'
+		link: 'https://cutlerwater-themetoggle.netlify.app'
 	},
-	{
+	/*{
 		nr: '050',
 		name: 'Infinite Scroll',
 		link: 'https://codepen.io/FlorinPop17/full/zYYWwRy'
@@ -364,13 +364,13 @@ const projects = [
 		nr: '064',
 		name: 'Hidden Search',
 		link: 'https://codepen.io/FlorinPop17/full/xxxMJbw'
-	},
+	},*/
 	{
 		nr: '065',
 		name: 'Flomoji 🤩',
-		link: 'https://codepen.io/FlorinPop17/full/bGGZWjr'
+		link: 'https://cutlerwater-flomoji.netlify.app'
 	},
-	{
+	/*{
 		nr: '066',
 		name: 'Moving Hamburger Animation',
 		link: 'https://codepen.io/FlorinPop17/full/wvvZvWp'
@@ -384,23 +384,23 @@ const projects = [
 		nr: '068',
 		name: 'Newsletter Design',
 		link: 'https://codepen.io/FlorinPop17/full/XWWQLxv'
-	},
+	}, */
 	{
 		nr: '069',
 		name: 'Dad Jokes',
-		link: 'https://codepen.io/FlorinPop17/full/dyyEvVV'
+		link: 'https://cutlerwater-dadjokes.netlify.app'
 	},
-	{
+	/*{
 		nr: '070',
 		name: 'Kinetic Loader',
 		link: 'https://codepen.io/FlorinPop17/full/yLLWrKB'
-	},
+	}, */
 	{
 		nr: '071',
 		name: 'Donate Design',
-		link: 'https://codepen.io/FlorinPop17/full/bGGPKZV'
-	},
-	{
+		link: 'https://cutlerwater-donatedesign.netlify.app'
+	}
+	/*{
 		nr: '072',
 		name: 'Instagram Image Feed',
 		link: 'https://codepen.io/FlorinPop17/full/zYYgoEZ'
@@ -630,6 +630,16 @@ const projects = [
 		name: 'Star Wars page',
 		link: 'https://cutlerwater-starwarseffect.netlify.app/'
 	},
+	{
+		// nr: '099',
+		name: '3d effect in css',
+		link: 'https://cutlerwater-3deffectcss.netlify.app'
+	},
+	{
+		// nr: '099',
+		name: 'Chess Board',
+		link: 'https://cutlerwater-chess.netlify.app'
+	}
 ];
 
 const app = document.getElementById('app');
