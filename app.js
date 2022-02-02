@@ -1,6 +1,11 @@
 const projects = [
 	{
 		nr: '001',
+		name: 'Star Wars Site',
+		link: 'https://cutlerwater-starwarssite.netlify.app/'
+	},
+	{
+		nr: '001',
 		name: 'Random Meal Generator',
 		link: 'https://cutlerwater-randommealgenerator.netlify.app/'
 	},
