@@ -1,6 +1,6 @@
 const projects = [
 	{
-		nr: '001',
+		// nr: '001',
 		name: 'Star Wars Site',
 		link: 'https://cutlerwater-starwarssite.netlify.app/'
 	},
