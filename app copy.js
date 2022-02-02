@@ -1,9 +1,4 @@
-const projects = [
-	{
-		// nr: '001',
-		name: 'Star Wars Project',
-		link: 'https://cutlerwater-starwarssite.netlify.app/'
-	},
+const projects = [	
 	{
 		nr: '001',
 		name: 'Random Meal Generator',
@@ -404,7 +399,7 @@ const projects = [
 		nr: '071',
 		name: 'Donate Design',
 		link: 'https://cutlerwater-donatedesign.netlify.app'
-	},
+	}
 	/*{
 		nr: '072',
 		name: 'Instagram Image Feed',
@@ -544,7 +539,7 @@ const projects = [
 		nr: '099',
 		name: 'Cheap, Good, Fast',
 		link: 'https://codepen.io/FlorinPop17/full/QWwgyXd'
-	}, */
+	} */
 	{
 		// nr: '099',
 		name: 'Newest Profile Page',
@@ -644,14 +639,14 @@ const projects = [
 		// nr: '099',
 		name: 'Chess Board',
 		link: 'https://cutlerwater-chess.netlify.app'
-	},
+	}
 ];
 
 const app = document.getElementById('app');
 const imgBaseURL = 'https://www.florin-pop.com/images/100Days100PRojects/Day ';
 
 projects.forEach(project => {
-	const title = `${project.name} `;
+	const title = `${project.name}`;
 	const imgURL = imgBaseURL + project.nr + '.jpg';
 	
 	const projectEl = document.createElement('a');
@@ -667,4 +662,17 @@ projects.forEach(project => {
     `;
 
 	app.appendChild(projectEl);
+});
+
+// SOCIAL PANEL JS
+const floating_btn = document.querySelector('.floating-btn');
+const close_btn = document.querySelector('.close-btn');
+const social_panel_container = document.querySelector('.social-panel-container');
+
+floating_btn.addEventListener('click', () => {
+	social_panel_container.classList.toggle('visible')
+});
+
+close_btn.addEventListener('click', () => {
+	social_panel_container.classList.remove('visible')
 });
