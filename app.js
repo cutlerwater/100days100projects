@@ -5,6 +5,16 @@ const projects = [
 		link: 'https://cutlerwater-starwarssite.netlify.app/'
 	},
 	{
+		// nr: '001',
+		name: 'Voice Typing',
+		link: 'https://cutlerwater-voicetyping.netlify.app'
+	},
+	{
+		// nr: '001',
+		name: 'E-learning site',
+		link: 'https://cutlerwater-elearning.netlify.app'
+	},
+	{
 		nr: '001',
 		name: 'Random Meal Generator',
 		link: 'https://cutlerwater-randommealgenerator.netlify.app/'
