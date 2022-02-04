@@ -11,6 +11,51 @@ const projects = [
 	},
 	{
 		// nr: '001',
+		name: 'IP Locator',
+		link: 'https://cutlerwater-iplocator.netlify.app'
+	},
+	{
+		// nr: '001',
+		name: 'Piano App',
+		link: 'https://cutlerwater-pianoapp.netlify.app'
+	},
+	{
+		// nr: '001',
+		name: 'Drum kit app',
+		link: 'https://cutlerwater-drumkit.netlify.app'
+	},
+	{
+		// nr: '001',
+		name: 'RGB to HEX Conversion',
+		link: 'https://cutlerwater-rgbhexconversion.netlify.app'
+	},
+	{
+		// nr: '001',
+		name: 'Lyrics Finder',
+		link: 'https://cutlerwater-lyricsfinder.netlify.app'
+	},
+	{
+		// nr: '001',
+		name: 'BlackJack',
+		link: 'https://cutlerwater-blackjack.netlify.app'
+	},
+	{
+		// nr: '001',
+		name: 'Periodic table',
+		link: 'https://cutlerwater-periodictable.netlify.app'
+	},
+	{
+		// nr: '001',
+		name: 'Atomic Symbol Generator',
+		link: 'https://cutlerwater-atomicsymbolgenerator.netlify.app'
+	},
+	{
+		// nr: '001',
+		name: 'Fireworks',
+		link: 'https://cutlerwater-fireworks.netlify.app'
+	},
+	{
+		// nr: '001',
 		name: 'E-learning site',
 		link: 'https://cutlerwater-elearning.netlify.app'
 	},
